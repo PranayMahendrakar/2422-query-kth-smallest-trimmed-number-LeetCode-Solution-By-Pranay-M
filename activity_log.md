@@ -6,3 +6,4 @@
 - [2026-05-03T18:54:35Z] chore: remove deprecated API calls
 - [2026-05-03T17:50:41Z] test: add unit tests for core module
 - [2026-05-03T13:21:48Z] refactor: simplify conditional logic
+- [2026-05-03T13:58:47Z] docs: update README with usage examples
